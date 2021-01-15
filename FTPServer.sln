@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPServer", "FTPServer.csproj", "{507599DF-6BEE-47A3-ADFC-3284F9B6091F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteFTP", "..\ClienteFTP\ClienteFTP.csproj", "{B3D66325-0F61-4629-A4CB-DE801BDEAEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{507599DF-6BEE-47A3-ADFC-3284F9B6091F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507599DF-6BEE-47A3-ADFC-3284F9B6091F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507599DF-6BEE-47A3-ADFC-3284F9B6091F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507599DF-6BEE-47A3-ADFC-3284F9B6091F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D66325-0F61-4629-A4CB-DE801BDEAEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D66325-0F61-4629-A4CB-DE801BDEAEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D66325-0F61-4629-A4CB-DE801BDEAEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D66325-0F61-4629-A4CB-DE801BDEAEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B46C0DD7-594E-4F7B-B03B-36C3E191E832}
+	EndGlobalSection
+EndGlobal

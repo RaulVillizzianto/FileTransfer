@@ -1,0 +1,13 @@
+C:\Users\villi\source\repos\FTPServer\bin\Debug\netcoreapp3.1\FTPServer.exe
+C:\Users\villi\source\repos\FTPServer\bin\Debug\netcoreapp3.1\FTPServer.deps.json
+C:\Users\villi\source\repos\FTPServer\bin\Debug\netcoreapp3.1\FTPServer.runtimeconfig.json
+C:\Users\villi\source\repos\FTPServer\bin\Debug\netcoreapp3.1\FTPServer.runtimeconfig.dev.json
+C:\Users\villi\source\repos\FTPServer\bin\Debug\netcoreapp3.1\FTPServer.dll
+C:\Users\villi\source\repos\FTPServer\bin\Debug\netcoreapp3.1\FTPServer.pdb
+C:\Users\villi\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.csproj.CoreCompileInputs.cache
+C:\Users\villi\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.AssemblyInfoInputs.cache
+C:\Users\villi\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.AssemblyInfo.cs
+C:\Users\villi\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.dll
+C:\Users\villi\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.pdb
+C:\Users\villi\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.genruntimeconfig.cache
+C:\Users\villi\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.csprojAssemblyReference.cache
